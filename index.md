@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## ArcGIS Runtime API for Qt Samples
 
-You can use the [editor on GitHub](https://github.com/esride-jts/qtruntime.esride.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The provided samples are a collection of demo applications, toolkits and best practices using ArcGIS Runtime API for Qt.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ACLED Explorer
+The ACLED explorer is a desktop map application visualizing occurred events worldwide.
+For more details see [ACLED Explorer](https://github.com/esride-jts/acled-explorer)
 
-### Markdown
+### GEOINT Engineer
+Simple native desktop application for heavy lifting geospatial intelligence analysis.
+For more details see [GEOINT Engineer](https://github.com/esride-jts/geoint-engineer)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### GEOINT Recon
+Sample native desktop application for geospatial intelligence workflows.
+[GEOINT Recon](https://github.com/esride-jts/geoint-recon)
 
-```markdown
-Syntax highlighted code block
+### Dynamic Situational Awareness App
+DSA is an Open Source App intended and designed for the developer who wants to build their own custom field operation apps.
+[DSA App](https://github.com/esride-jts/dynamic-situational-awareness-qt)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/esride-jts/qtruntime.esride.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### ArcGIS Runtime API for Qt Samples
+ArcGIS Runtime for Qt sample applications. The repo contains Qt projects for each sample that can be run from within the Qt Creator IDE.
+For more details see [ArcGIS Runtime API for Qt samples](https://github.com/esride-jts/arcgis-runtime-samples-qt)
