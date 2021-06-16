@@ -12,11 +12,11 @@ For more details see [GEOINT Engineer](https://github.com/esride-jts/geoint-engi
 
 ### GEOINT Recon
 Sample native desktop application for geospatial intelligence workflows.
-[GEOINT Recon](https://github.com/esride-jts/geoint-recon)
+For more details see [GEOINT Recon](https://github.com/esride-jts/geoint-recon)
 
 ### Dynamic Situational Awareness App
 DSA is an Open Source App intended and designed for the developer who wants to build their own custom field operation apps.
-[DSA App](https://github.com/esride-jts/dynamic-situational-awareness-qt)
+For more details see [DSA App](https://github.com/esride-jts/dynamic-situational-awareness-qt)
 
 ### ArcGIS Runtime API for Qt Samples
 ArcGIS Runtime for Qt sample applications. The repo contains Qt projects for each sample that can be run from within the Qt Creator IDE.
