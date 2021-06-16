@@ -1,5 +1,5 @@
 ## ArcGIS Runtime API for Qt Samples
-
+![qt-github-socialimage-template](https://user-images.githubusercontent.com/3008093/122193167-90844000-ce94-11eb-9930-9a3ca343c720.png)
 The provided samples are a collection of demo applications, toolkits and best practices using ArcGIS Runtime API for Qt.
 
 ### ACLED Explorer
